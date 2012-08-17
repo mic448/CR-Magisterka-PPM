@@ -14,6 +14,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
+    int i = 10;
     return 0;
 }
 
